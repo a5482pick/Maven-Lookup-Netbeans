@@ -4,11 +4,11 @@ Two independent window components are created in Netbeans.  &nbsp; 'HistoryTopCo
 
 _Summary of use:_
 
-The 'History Window' does not open upon start-up, so select 'History' from 'Window' after the application has loaded.
+If two text-area boxes are not visible upon start-up, select 'History' from 'Window' after the application has loaded.
 
-To pass new text to this 'History' window, submit with the button. &nbsp; If instead you click the text boxes in each of the two windows alternately, an incrementing number is submitted to the HistoryTopComponent text box from TextTopComponent.
+To pass new text to the 'History' window's text box, submit with the button. &nbsp; If instead you click the text boxes in each of the two windows alternately, an incrementing number is submitted to the HistoryTopComponent text box from TextTopComponent.
 
-(The example: https://platform.netbeans.org/tutorials/nbm-maven-quickstart.html was used as a starting point.)
+(The example https://platform.netbeans.org/tutorials/nbm-maven-quickstart.html was used as a starting point.)
 
 _To run directly from the command line:_
 
